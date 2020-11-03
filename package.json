@@ -1,0 +1,21 @@
+{
+  "name": "mocha_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "chai": "*",
+  "chai-spies": "*",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0",
+    "mocha-sinon": "^2.1.2"
+  },
+  "dependencies": {
+    "sinon": "^9.2.1"
+  }
+}
